@@ -1,0 +1,6 @@
+.navbar-brand{
+   color: dimgray;
+}
+.nav-link active{
+    color: aquamarine;
+}

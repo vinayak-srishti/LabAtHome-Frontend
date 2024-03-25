@@ -1,0 +1,28 @@
+.doctors{
+   text-align: center;
+}
+#navbarNavAltMarkup a:hover{
+   color: rgba(201, 207, 202, 0.61);
+
+}
+.navbar-brand{
+   color: rgb(60, 247, 73);
+
+}
+/* .container text-center{
+   color: black;
+} */
+.docinput{
+   height: 35px;
+   width: 50px;
+   padding: 0 15px;
+   font-size: 14px;
+   margin-bottom: 10px;
+   border: 1px solid#bcbcbc;
+   border-radius: 1px;
+   outline: none;
+
+}
+.check{
+   color: red;
+}
